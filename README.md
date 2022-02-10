@@ -1,6 +1,6 @@
 # Orbbec Unity Sample
 
-<img src="Demo/demo.gif" alt="preview gif" width="500"/>
+<img src="Demo/demo.gif" alt="preview gif" width="800"/>
 
 ## Prerequisites
 * Windows machine
